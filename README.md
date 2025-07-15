@@ -51,7 +51,7 @@ Currently diving deep into:
 
 ## 🧠 Education & Learning
 
-🎓 **Bachelor’s Degree** in Network Engineering & Web Development  
+🎓 **Bachelor’s Degree** in Network Engineering
 🎓 **General Assembly's Software Engineering Bootcamp**
 
 I enjoy blending **network security principles** with **modern development** practices to build smarter, safer systems.
