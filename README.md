@@ -25,12 +25,18 @@ Currently diving deep into:
 <img src="https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framework-Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Template-EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=black"/>
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/ODM-Mongoose-880000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tools-FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Network-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
 </div>
+
 
 ---
 
